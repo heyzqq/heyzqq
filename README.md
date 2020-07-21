@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Microservice.
+- 🤔 I’m looking for help with Spring Cloud.
+- 📫 How to reach me: [Email](zqqisme@gmail.com)
+
