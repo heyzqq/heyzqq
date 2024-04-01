@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Microservice.
-- 🤔 I’m looking for help with Spring Cloud.
+- 🔭 I’m currently working on Spring Cloud.
+- 🌱 I’m currently learning Golang.
+- 🤔 I’m looking for help with indie development.
 - 📫 How to reach me: [Email](mailto:zqqisme@gmail.com)
-
+- ⚡ Blog: https://springx.fun.
