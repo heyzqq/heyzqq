@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Golang.
 - 🤔 I’m looking for help with indie development.
 - 📫 How to reach me: [Email](mailto:zqqisme@gmail.com)
-- ⚡ Blog: https://springx.fun, https://blog.springx.fun.
+- ⚡ Blog: https://springx.fun.
